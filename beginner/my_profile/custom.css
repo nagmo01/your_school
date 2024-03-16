@@ -1,0 +1,10 @@
+.border-red{
+  border: red solid 2px;
+}
+
+
+img {
+  width: 330px;
+  height: 220px;
+  object-fit: cover;
+}
